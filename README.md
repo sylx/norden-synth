@@ -1,3 +1,6 @@
+> [!NOTE]
+> このリポジトリは 2026-11-14 に [nordencult](https://github.com/sylx/nordencult) の [`norden-synth/`](https://github.com/sylx/nordencult/tree/main/norden-synth) に移りました（履歴もそのまま取り込んであります）。ここは更新しません。
+
 # norden-synth
 
 Web ゲームの BGM 用の、PCM (サンプル) ベースのシンセサイザ。
